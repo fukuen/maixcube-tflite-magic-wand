@@ -1,0 +1,1 @@
+# maixcube-tflite-magic-wand
